@@ -12,3 +12,5 @@ Simplest explanation is as follows:
 Main objective is to **create a community to build the codebase(s) and instructions to create real world examples**.
 
 This will be published on [kickofftimes.app](https://kickofftimes.app)
+
+Extra thoughts and details are available on the [Website Wiki](https://github.com/kickofftimes/website/wiki)
