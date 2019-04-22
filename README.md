@@ -25,4 +25,4 @@ We're looking for Web engineers, designers, techies and fans of sport to help bu
 
 The aim is to get the first template ready for Rugby World Cup in September 2019.
 
-Reach out or [tweet @Si](https://twitter.com/Si) for a chat about how you can help out.
+Reach out on the [KickOff Times Slack workspace](https://kickofftimes.slack.com) or [tweet @Si](https://twitter.com/Si) for a chat about how you can help out.
