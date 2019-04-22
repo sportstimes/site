@@ -4,9 +4,11 @@ This is for the main website to promote and support the Kick Off Times open-sour
 
 Simplest explanation is as follows:
 
- * **API** - provides structured data for sports events
- * **Template** - simple website to display sports events from the API
- * **App** - tool to manage sports event data in the API
- * **Website** - promotional content site to explain this in greater detail and how to get involved
+ * _MLP_ - **Template** - simple website to display sports events from a data source (JSON data, possibly from API)
+ * _Stage 2_ - **Website** - promotional content site to explain this in greater detail and how to get involved
+ * _Stage 3_ - **API** - provides structured data for sports events
+ * _Stage 4_ - **App** - tool to manage sports event data in the API
 
-_More to come…_
+Main objective is to **create a community to build the codebase(s) and instructions to create real world examples**.
+
+This will be published on [kickofftimes.app](https://kickofftimes.app)
