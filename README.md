@@ -1,8 +1,10 @@
 # Kick Off Times 
 
+![KO](https://raw.githubusercontent.com/kickofftimes/kickoff/build/app/webroot/img/src/png/favicon-144.png)
+
 This is for the main website to promote and support the Kick Off Times open-source project.
 
-## What is this? 
+## What is this? 🤷‍♂️
 
 Simplest explanation is as follows:
 
