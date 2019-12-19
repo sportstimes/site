@@ -1,6 +1,6 @@
-# Kick Off Times 
+# Sports Times 
 
-This is for the main website to promote and support the Kick Off Times open-source project.
+This is for the main website to promote and support the [Sports Times open-source project](https://github.com/sportstimes).
 
 Simplest explanation is as follows:
 
